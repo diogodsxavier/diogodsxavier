@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on WFS Orbital
 - 🌱 I’m currently learning Javascript, Node, React.js
-- 💬 Ask me about Javascript
+- 💬 Ask me about Javascript, React
 
 ### Best Technologies
 
