@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 - 🔭 I’m currently working on WFS Orbital
-- 🌱 I’m currently learning Javascript, Node, React.js
-- 💬 Ask me about Javascript, React
+- 🌱 I’m currently learning Javascript, Node, React, Typescript
+- 💬 Ask me about Javascript, React, Typescript
 
 ### Best Technologies
 
